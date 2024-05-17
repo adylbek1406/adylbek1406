@@ -1,4 +1,6 @@
 hi,my name is Adyl
+
+
 I am a Backend Developer  from Kyrgyzstan.
 
 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
