@@ -17,12 +17,12 @@
 
 ### 👨‍💻 About me
 
- 🌍 I am a **Backend Developer** from **Kyrgyzstan** 🇰🇬
- 🔭 I’m working as a **Software Engineer** and contributing to frontend and backend for building web applications
- 🌱 Always learning new technologies and improving my skills
- ⚙️ Interested in system design, clean architecture and DevOps practices
- 💬 Ask me about **Python, Java, PostgreSQL, Docker**
- ⚡ Fun fact: I love turning complex problems into simple solutions
+🌍 I am a Backend Developer from Kyrgyzstan 🇰🇬
+🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications
+🌱 Always learning new technologies and improving my skills
+⚙️ Interested in system design, clean architecture and DevOps practices
+💬 Ask me about Python, Java, PostgreSQL, Docker
+⚡ Fun fact: I love turning complex problems into simple solutions
 
 ---
 
