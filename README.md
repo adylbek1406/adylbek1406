@@ -1,29 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=header&text=Hi,%20I'm%20Adyl&fontSize=42&fontAlignY=35&animation=fadeIn" />
-</p>
-
-<h1 align="center">
-  Hi, my name is Adyl
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
-</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Python+%7C+Java;PostgreSQL+%7C+Redis;DevOps+%7C+Docker+%7C+CI%2FCD;Software+Engineer+from+Kyrgyzstan+%F0%9F%87%B0%F0%9F%87%AC" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-### 👨‍💻 About me
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=header&text=Hi,%20I'm%20Adyl&fontSize=42&fontAlignY=35&animation=fadeIn" /> </p> <h1 align="center"> Hi, my name is Adyl <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"> </h1> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Python+%7C+Java;PostgreSQL+%7C+Redis;DevOps+%7C+Docker+%7C+CI%2FCD;Software+Engineer+from+Kyrgyzstan+%F0%9F%87%B0%F0%9F%87%AC" alt="Typing SVG" /> </a> </p>
+👨‍💻 About me
 🌍 I am a Backend Developer from Kyrgyzstan 🇰🇬
 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications
 🌱 Always learning new technologies and improving my skills
 ⚙️ Interested in system design, clean architecture and DevOps practices
 💬 Ask me about Python, Java, PostgreSQL, Docker
 ⚡ Fun fact: I love turning complex problems into simple solutions
-
 ---
 
 ### 🛠️ Tech Stack
